@@ -13,7 +13,7 @@ This course contains lots of challenges for HTML, each challenge is a small HTML
 |---------|---------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 🎯 Customized Membership Card          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/326693'>Start Challenge</a> |
 |      02 | 🎯 Depth First Traversal of DOM Tree   | ★★☆          | <a target='_blank' href='https://labex.io/labs/148859'>Start Challenge</a> |
-|      03 | 🎯 Mastering HTML5 Drag and Drop       | ★★☆          | <a target='_blank' href='https://labex.io/labs/21429'>Start Challenge</a>  |
+|      03 | 🎯 HTML5 Drag and Drop                 | ★★☆          | <a target='_blank' href='https://labex.io/labs/21429'>Start Challenge</a>  |
 |      04 | 🎯 Breadth-First Traversal of DOM Tree | ★★☆          | <a target='_blank' href='https://labex.io/labs/148580'>Start Challenge</a> |
 |      05 | 🎯 Reusable Element-UI Form Components | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177217'>Start Challenge</a> |
 |      06 | 🎯 Alien Message Translator Program    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298213'>Start Challenge</a> |
